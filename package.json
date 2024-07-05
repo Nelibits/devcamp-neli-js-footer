@@ -1,0 +1,26 @@
+{
+  "name": "devcamp-neli-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nelibits/devcamp-neli-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Nélida <nerodriguez.az9@gmail.com> (https://github.com/Nelibits)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nelibits/devcamp-neli-js-footer/issues"
+  },
+  "homepage": "https://github.com/Nelibits/devcamp-neli-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.30.1",
+    "save": "^2.9.0"
+  }
+}
